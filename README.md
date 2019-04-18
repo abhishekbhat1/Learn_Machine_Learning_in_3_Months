@@ -9,6 +9,7 @@ https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xV
 https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
 
 Text book for MIT course : http://math.mit.edu/~gs/linearalgebra/
+Updated course :https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/
 ## Week 2 Calculus
 https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
 ## Week 3 Probability
